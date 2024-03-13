@@ -6,4 +6,6 @@
 	//	let movie: Tables<'movies'>
 </script>
 
-<slot />
+<div class="h-dvh bg-gradient-30 dark:bg-gradient-8 flex place-content-center place-items-center">
+	<slot />
+</div>
